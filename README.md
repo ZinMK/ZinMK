@@ -50,6 +50,6 @@ Now, I’m a junior studying Computer Science in the U.S., diving deep into:
 - Or just open an issue in one of my repos and say hey!
 
 
-_Thanks for stopping by! Drop a star ⭐ on something if you vibe with it, or hit me up if you want to build cool stuff together._
+_Thanks for stopping by! hit me up if you want to build cool stuff together._ Check out some of the projects I've built below!
 
 > “The best way to learn is to break something and try to fix it before anyone notices.”
