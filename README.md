@@ -47,8 +47,6 @@ Now, I’m a junior studying Computer Science in the U.S., diving deep into:
 
 - Email me at: `shanunapal [at] gmail [dot] com`
 - LinkedIn: [linkedin.com/in/zinmk](https://linkedin.com/in/zinmk)
-- Or just open an issue in one of my repos and say hey!
-
 
 _Thanks for stopping by! hit me up if you want to build cool stuff together._ Check out some of the projects I've built below!
 
