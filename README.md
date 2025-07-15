@@ -1,32 +1,36 @@
-## Hi there 👋 I'm Zin!
+## Hello I'm Zin!
+---
 
+If I were asked to describe myself, I'd say I am a builder, problem solver and a musician. I love talking about Philosophy, Technology, interesection between Sprituality and Ai, and playing blues. Always looking to challenge myself and learn from the people around me. Currenlty building Ai tools and learning the technical fundamentals. Previously I worked at a startup called Custom Ai Studio building AI agents for businesses, had an amazing experience. Looking to intern at a startup, to build, ship and repeat. 
 
 ---
 
-### 🚀 About Me
+### 💼 What I’ve built
 
-I'm Zin, a builder at heart, a problem-solver by habit. I grew up in Myanmar 🇲🇲 all the way in South East Asia. 
+- **hangout finder app** called [Eureka](https://eurekastudy.app), an app geared towards freshmen to help them meet new people and organize hangouts
+- **Built a full D2D CRM for my Window Cleaning Business (Internal Testing)**
+  - schedule, manage leads, build routes, Google Maps Api, Automated Bot for scheduling.
+- **Built a Multi Agent Twitter Bot to post latest Ai news from Youtube**
+  - TechStack - Google ADK, Python
+- **Built an anoynous compliements app for my college peers**
+    - https://tommiecompliment.web.app/   
+- **Built classfinder.ai**
+    - Multi Agent workflow, for college studnets to find the best classes for them through Natural Language.
+    - classfinder.ai <- To check out
+- **Built a MacOS app for Custom Ai Studio**
+    - 
+    - classfinder.ai <- To check out  
+---
 
-Now, I’m a junior studying Computer Science in the U.S., diving deep into:
+### 🌱 What I am working on/Learning
 
-- 🤖 AI/ML Development (especially for underrepresented languages like Burmese)
-- 📱 Full-stack App Development (Flutter, Firebase, ReactNative, SwiftUI)
-- 🌐 Web Dev (React, accessibility, and all the spicy UI details)
-- 🔒 Security, data, and breaking stuff safely (hello, InfoSec class!)
+- NLP application for Burmese Language
+    - Making low-resource languages feel more seen in tech
+- Mastering Google ADK Agentic Framework
+- Finishing the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
 
 ---
 
-### 💼 What I’ve Been Up To
-
-- 🧠 **Built an AI-powered hangout finder app** called [Eureka](https://eurekastudy.app), an app geared towards freshmens to help them meet new people and organize hangouts! 
-- 🧽 **Launched a window-cleaning business**,
-    - then made "KNOX" a full D2D CRM for my window cleaning team, to schedule, manage leads, build routes. (because why not automate everything?)
-- 🔧 **Interned as a Web Dev & Salesforce Developer on Campus**
-    - Where I used React, AWS s3, to manage campus websties.
-- 🧪 **Currently researching**
-    - Burmese NLP & AI applications in education
-
----
 
 ### 🛠️ Tech Stack
 
@@ -35,19 +39,12 @@ Now, I’m a junior studying Computer Science in the U.S., diving deep into:
 - **DBs**: Firestore, PostgreSQL, Supabase
 ---
 
-### 🌱 Currently Learning
-
-- Building smarter agents & integrating AI into real-world tools
-- Making low-resource languages feel more seen in tech
-- Playing with React animations and design systems
-
----
 
 ### 📫 Let’s Connect!
 
 - Email me at: `shanunapal [at] gmail [dot] com`
 - LinkedIn: [linkedin.com/in/zinmk](https://linkedin.com/in/zinmk)
 
-_Thanks for stopping by! hit me up if you want to build cool stuff together._ Check out some of the projects I've built below!
+_Thanks for stopping by! hit me up if you want to build cool stuff together.
 
-> “The best way to learn is to break something and try to fix it before anyone notices.”
+> Quote that I live by. “Everything around you that you call life was made up by people that were no smarter than you and you can change it, you can influence it, you can build your own things that other people can use.” if you know where this is from, we will get along so well. 
