@@ -23,8 +23,7 @@ If I were asked to describe myself, I'd say I am a builder, problem solver and a
 
 ### 🌱 What I am working on/Learning
 
-- NLP application for Burmese Language
-    - Making low-resource languages feel more seen in tech
+- Ressearching NLP application for my native language 
 - Mastering Google ADK Agentic Framework
 - Finishing the book Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
 
@@ -42,8 +41,7 @@ If I were asked to describe myself, I'd say I am a builder, problem solver and a
 ### 🛠️ Tech Stack
 
 - **Languages**: Python, Java, Dart, Flutter, JavaScript, SQL, React, Swift, C, Matlab, Angular, C++. 
-- **Frameworks & Tools**: Flutter, Firebase, React, Node.js, N8N, Pinecone, Tailwind, Google Cloud Platforms, AWS, Azure, Google ADK.
-- 
+- **Frameworks & Tools**: Flutter, Firebase, React, Node.js, N8N, Pinecone, Tailwind, Google Cloud Platforms, AWS, Azure, Google ADK, Building Custom MCP Servers, Claude Code, Cursor, Lovable. 
 ---
 
 
