@@ -12,6 +12,7 @@ If I were asked to describe myself, I'd say I am a builder, problem solver and a
   - schedule, manage leads, build routes, Google Maps Api, Automated Bot for scheduling.
 - **Built a Multi Agent Twitter Bot to post latest Ai news from Youtube**
   - TechStack - Google ADK, Python
+  - @aiCircle_bot on x
 - **Built an anoynous compliements app for my college peers**
     - https://tommiecompliment.web.app/   
 - **Built classfinder.ai**
