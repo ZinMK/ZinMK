@@ -1,7 +1,7 @@
 ## Hello I'm Zin!
 ---
 
-If I were asked to describe myself, I'd say I am a builder, problem solver and a musician. I love talking about Philosophy, Technology, interesection between Sprituality and Ai, and playing blues. Always looking to challenge myself and learn from the people around me. Currenlty building Ai tools and learning the technical fundamentals. Previously I worked at a startup called Custom Ai Studio building AI agents for businesses, had an amazing experience. Looking to intern at a startup, to build, ship and repeat. 
+If I were asked to describe myself, I'd say I am a builder, problem solver and a musician. I love talking about Philosophy, Technology, interesection between Sprituality and Ai, and playing blues. Always looking to challenge myself and learn from the people around me. Currenlty building Ai tools and learning the technical fundamentals. Previously I worked at a startup called Custom Ai Studio building AI agents for businesses, had an amazing experience. Looking to intern at a startup to build ship and repeat. 
 
 ---
 
