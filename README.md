@@ -19,6 +19,7 @@ If I were asked to describe myself, I'd say I am a builder, problem solver and a
     - Multi Agent workflow, for college studnets to find the best classes for them through Natural Language.
     - classfinder.ai <- To check out
 - **Built a MacOS app for Custom Ai Studio**
+    - Transcribe audio in realtime with speaker change recognition
 
 ---
 
