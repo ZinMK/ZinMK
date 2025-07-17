@@ -7,7 +7,7 @@ If I were asked to describe myself, I'd say I am a builder, problem solver and a
 
 ### 💼 What I’ve built 
 
-- **hangout finder app** called [Eureka](https://eurekastudy.app), an app geared towards freshmen to help them meet new people and organize hangouts
+- **full stack hangout finder app** called [Eureka](https://eurekastudy.app), an app geared towards freshmen to help them meet new people and organize hangouts
 - **Built a full D2D CRM for my Window Cleaning Business (Internal Testing)**
   - schedule, manage leads, build routes, Google Maps Api, Automated Bot for scheduling.
 - **Built a Multi Agent Twitter Bot to post latest Ai news from Youtube**
